@@ -1,0 +1,12 @@
+.benefit {
+    display: flex;
+    gap: 24px;
+}
+
+.benefit li {
+    width: 264px;
+}
+
+.benefit h3 {
+    margin-bottom: 8px;
+}
